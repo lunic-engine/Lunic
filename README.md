@@ -10,6 +10,6 @@
 - [X] Create a [this] Repo
 - [ ] Start the Wiki
 
-Last on Update this TODO list: 03/12/21
+Last Update to this TODO list: 03/12/21
 
 [this]: https://github.com/lunic-engine/
